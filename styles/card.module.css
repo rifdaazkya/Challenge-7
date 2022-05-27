@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color:rgb(116, 96, 41);
+}
+
+.dataCard {
+    display: flex;
+    padding: 20px;
+}
